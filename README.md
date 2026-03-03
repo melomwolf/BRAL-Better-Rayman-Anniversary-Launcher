@@ -42,7 +42,11 @@ https://gamejolt.com/games/raymanredemption/340532
 
 # Regarding MrEliptik's game_launcher
 in order to add the games to the game launcher, you need to add exe files to the "games" folder.
+
 in order to do that you have to make a bat file that points to the emulator exe as well as the rom.
+
 sadly the game launcher cant run bat files, this is why i included a bat2exe script i vibecoded myself. 
+
 it comes as a bat file so you can drag your bat file with the instructions and out comes an exe that does the same.
+
 it also comes with a python version, that has a somewhat fancy UI for ease of use.
