@@ -18,7 +18,7 @@ BY UBI!**\
 
 ------------------------------------------------------------------------
 
-## Tools Required to Decompress `asset.pie`
+## Tools Required to Decompress `assets.pie`
 
 https://github.com/Masquerade64/Cowabunga
 
