@@ -1,5 +1,6 @@
 # BRAL-Better-Rayman-Anniversary-Launcher
 A Better Game Launcher for Rayman 30th Anniversary Edition based on MrEliptik's "game_launcher"
+this is a half-assed attempt to enjoy the original games with their original soundtrack.
 
 # IN ORDER TO USE THIS YOU NEED TO OWN A LEGITIMATE COPY OF "Rayman 30th Anniversary Edition" ON PC!
 # I DO NOT CONDONE PIRACY, EVEN IF UBISOFT DESERVED IT!
