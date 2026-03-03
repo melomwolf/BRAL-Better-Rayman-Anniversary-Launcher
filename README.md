@@ -2,7 +2,7 @@
 
 A better game launcher for Rayman 30th Anniversary Edition, based on
 MrEliptik's `game_launcher`.\
-This is a half-assed to enjoy the original games with their
+This is a half-assed attempt to enjoy the original games with their
 original soundtrack.
 
 ------------------------------------------------------------------------
