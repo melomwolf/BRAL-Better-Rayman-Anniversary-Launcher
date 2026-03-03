@@ -43,7 +43,7 @@ It also contains a guide explaining how to patch the ROM yourself.
 
 ## Included Tools / Emulators
 
-MrEliptik's game_launcher
+MrEliptik's game_launcher\
 https://github.com/MrEliptik/game_launcher
 
 LIJI32's SameBoy\
