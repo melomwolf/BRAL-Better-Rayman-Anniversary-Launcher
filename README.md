@@ -1,7 +1,7 @@
 # BRAL -- Better Rayman Anniversary Launcher
 
 A better game launcher for Rayman 30th Anniversary Edition, based on
-MrEliptik's game_launcher.
+MrEliptik's game_launcher.\
 This is a half-assed attempt to enjoy the original games with their
 original soundtrack.
 
@@ -37,7 +37,7 @@ An `.ips` patch for the PSX version can be found here:
 
 https://gamebanana.com/sounds/86151
 
-It also contains a guide explaining how to patch the ROM yourself.
+It also contains a guide explaining how to patch the PSX ROM.
 
 ------------------------------------------------------------------------
 
