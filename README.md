@@ -78,6 +78,9 @@ folder.
 You must create a `.bat` file that points to the emulator executable and
 the ROM.
 
+The Command inside the `.bat` should look like this:
+    `start "" "Path to Emulator EXE" "Path to Rom"`
+
 The launcher cannot run `.bat` files. For this reason, a `bat2exe`
 script is included.
 
