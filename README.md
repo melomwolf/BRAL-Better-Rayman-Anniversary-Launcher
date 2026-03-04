@@ -22,18 +22,18 @@ BY UBI!**\
 
 https://github.com/Masquerade64/Cowabunga
 
-The key is:
+Paste this into a PowerShell window
 
-    0x64DA7B23
+    ./cowabunga64.exe -c 0x64DA7B23 assets.pie assets.zip
 
-Discovered by:\
+Key discovered by:\
 https://github.com/henrygame3
 
 ------------------------------------------------------------------------
 
-## PSX .ips Patch
+## PSX .bps Patch
 
-An `.ips` patch for the PSX version can be found here:
+A `.bps` patch for the PSX version can be found here:
 
 https://gamebanana.com/sounds/86151
 
