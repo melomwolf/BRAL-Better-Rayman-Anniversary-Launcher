@@ -20,6 +20,9 @@ Just Click on the picture below.
 
 ## Requirements
 
+Rayman 30th Anniversary Edition.\
+If you own all those games physically, now is the time to dump those yourself!\
+
 **IN ORDER TO USE THIS, YOU NEED TO OWN A LEGITIMATE COPY OF "Rayman
 30th Anniversary Edition" ON PC!**\
 **I DO NOT CONDONE PIRACY, EVEN IF UBISOFT DESERVED IT!**\
