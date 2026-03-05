@@ -8,7 +8,7 @@ original soundtrack.
 ------------------------------------------------------------------------
 
 I made a detailed explaination how to set it up.\
-Just Click on the picture below.\
+Just Click on the picture below.
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=DBh0RKSUlik">
