@@ -7,6 +7,16 @@ original soundtrack.
 
 ------------------------------------------------------------------------
 
+I made a detailed explaination how to set it up:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=DBh0RKSUlik">
+    <img src="https://img.youtube.com/vi/DBh0RKSUlik/maxresdefault.jpg" alt="RESTORING the Soundtrack of Rayman 30th Anniversary Edition" style="width:100%; max-width:600px;">
+  </a>
+</div>
+
+------------------------------------------------------------------------
+
 ## Requirements
 
 **IN ORDER TO USE THIS, YOU NEED TO OWN A LEGITIMATE COPY OF "Rayman
